@@ -1,1 +1,1 @@
-# fortune_teller_static
+# Class Project: Fortune Teller Static Page
